@@ -18,6 +18,6 @@ ANSYS Fluent · SolidWorks · Fusion 360
 
 | Metric | Baseline | Optimised |
 |---|---|---|
-| Drag | — | −30% |
-| Lift | — | +10% |
+| Drag | — | −36% |
+| Lift | — | +12% |
 | Payload capacity | — | 1 kg on 800 g airframe |
