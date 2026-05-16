@@ -1,6 +1,6 @@
 # Payload-Carrying Fixed-Wing Drone — CFD & Structural Analysis
 
-Final-year project at NIT Calicut. Designed and fabricated a fixed-wing UAV capable of carrying a 1 kg payload on an 800 g airframe.
+Designed and fabricated a fixed-wing UAV capable of carrying a 1 kg payload on an 800 g airframe.
 
 ## What I did
 
