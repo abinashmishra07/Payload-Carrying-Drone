@@ -28,6 +28,6 @@ ANSYS Fluent · SolidWorks · Fusion 360
 |---|---|
 | <img width="800" src="https://github.com/user-attachments/assets/e8a3f0f8-57eb-4446-8dd7-419d4a957277" /> | <img width="800" src="https://github.com/user-attachments/assets/cce1c420-71a0-4e58-b73b-517e1225a9a6" /> |
 | Velocity magnitude pathlines — without winglet | Velocity magnitude pathlines — with winglet |
-| <img width="800" src="https://github.com/user-attachments/assets/7aa8a307-74da-465c-8745-db8d8a7fbf83" /> | |
-| Pressure contour at C/4 plane | |
+| <img width="800" src="https://github.com/user-attachments/assets/7aa8a307-74da-465c-8745-db8d8a7fbf83" /> | <img width="1136" height="490" alt="image" src="https://github.com/user-attachments/assets/14f61e5b-ef63-4ece-83e3-d394a1e62286" /> |
+| Pressure contour at C/4 plane | FSI Analysis |
 
